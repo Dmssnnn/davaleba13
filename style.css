@@ -220,59 +220,20 @@ font-size: 18px;
 line-height: 27px;
 color: #4F4F4F;
 }
-.email-content {
-    display: inline-block;
+.inputs {
+    
+    margin-top: 170px;
 }
-.data {
-    padding-left: 50px;
-    padding-top: 10px;
-    margin-top: 100px;
+.inputs input{
+    margin-top: 20px;
     margin-left: 100px;
-    display: flex;
     width: 400px;
-    height: 40px;
+    height: 55px;
     background: #FFFFFF;
-border: 1px solid #828282;
+    border: 1px solid #828282;
+    font-size: 20px;
 }
-.kvadrati {
-    margin-left: 200px;
-    width: 20px;
-    height: 20px;
-    background-color: blue;
-    background: #FFFFFF;
-border: 1px solid #4F4F4F;
-}
-.data h5 {
-width: 114px;
-height: 27px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 27px;
-color: #000000;
-}
-.data2 {
-    padding-left: 50px;
-    padding-top: 10px;
-    margin-top: 30px;
-    margin-left: 100px;
-    display: flex;
-    width: 400px;
-    height: 40px;
-    background: #FFFFFF;
-border: 1px solid #828282;
-}
-.data2 h5 {
-width: 190px;
-height: 27px;
-font-family: 'Poppins';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 27px;
-color: #000000;
-}
+
 .button-content {
     margin-top: 70px;
     margin-left: 100px;
